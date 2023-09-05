@@ -1,0 +1,20 @@
+{
+  "name": "Trillo",
+  "version": "1.0.0",
+  "description": "Trillo App",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch sass/main.scss css/style.css",
+    "devServer": "live-server"
+  },
+  "keywords": [
+    "flexbox",
+    "advanced",
+    "css"
+  ],
+  "author": "Whitegod Kingsley",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.64.2"
+  }
+}
